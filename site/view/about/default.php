@@ -40,6 +40,7 @@
                 <div class="row mb-5">
                     <div class="col-md-12">
                         <h2 class="text-black text-uppercase">Về chúng tôi</h2>
+                        <h2 class="text-black text-uppercase">Về chúng tôi</h2>
                         <p class="lead">HOMEDECOR là một thương hiệu chuyên cung cấp các sản phẩm nội thất cao cấp, mang lại không gian sống tiện nghi và sang trọng cho mọi gia đình.</p>
                         <p>Chúng tôi cung cấp những sản phẩm nội thất với chất liệu gỗ tự nhiên, thiết kế hiện đại và đa dạng, phù hợp với mọi phong cách sống. Tại HOMEDECOR, chúng tôi cam kết mang đến cho khách hàng những sản phẩm chất lượng nhất với dịch vụ tận tâm.</p>
                     </div>
