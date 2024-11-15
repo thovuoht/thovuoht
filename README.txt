@@ -10,7 +10,5 @@ Như vậy tóm lại:
 Hệ thống MVC sẽ phân chia làm hai module chính là site (frontend) và admin (backend), mỗi module sẽ có một file bootstrap (index.php cho folder site và admin.php cho folder admin).
 Hệ thống MVC có một folder system dùng để chứa những thư viện dùng chung cho cả frontend và backend.
 Hệ thống MVC có folder public chứa các file như js, css, jquery, ... Đặc biệt nó có một folder upload dùng để chứa hình ảnh upload cho các tin tức và sản phẩm.
-test: đẩy code
-test: đẩy code
-test: đẩy code
+test: đẩy code 22222222
 
