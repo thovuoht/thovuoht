@@ -11,3 +11,6 @@ Hệ thống MVC sẽ phân chia làm hai module chính là site (frontend) và 
 Hệ thống MVC có một folder system dùng để chứa những thư viện dùng chung cho cả frontend và backend.
 Hệ thống MVC có folder public chứa các file như js, css, jquery, ... Đặc biệt nó có một folder upload dùng để chứa hình ảnh upload cho các tin tức và sản phẩm.
 test: đẩy code
+test: đẩy code
+test: đẩy code
+
